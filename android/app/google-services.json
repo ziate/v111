@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "393205593825",
+    "project_id": "elg3an-59898",
+    "storage_bucket": "elg3an-59898.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393205593825:android:85c58965fe6010c48ce9a0",
+        "android_client_info": {
+          "package_name": "com.elg3an.elmaghara"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393205593825-cfosanc340jqgjdlskuh2lhlha6lodqb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbSM1ssmvA7yqnPVVkiDtcj9alXd2cEuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393205593825-cfosanc340jqgjdlskuh2lhlha6lodqb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
